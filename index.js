@@ -12,5 +12,5 @@ function destructivelyAppendKitten(Array, element) {
    
 
 function destructivelyAppendKitten() {
-  appendKitten("")
+  appendKitten("Ralph")
 }
