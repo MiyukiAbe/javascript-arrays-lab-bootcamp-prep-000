@@ -7,5 +7,7 @@ function destructivelyAppendKitten(Array, element) {
 
 
 function destructivelyAppendKitten() {
-  appendKitten("Ralph")
+  kittens.push("Ralph")
+  return kittens
 }
+
