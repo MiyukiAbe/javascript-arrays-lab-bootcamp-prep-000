@@ -23,6 +23,6 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  appendkittens(name)
+  appendKitten(name)
   return appendKitten
 }
